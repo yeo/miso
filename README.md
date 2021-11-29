@@ -37,6 +37,12 @@ Or to use a traditonal public DNS like google, simply add a suffix
 dig name.bridge.miso.is TXT
 ```
 
+## What is the different with ens.domains
+
+Ethereum name service is more mature. You should use it if it fit your
+use case. However, if you are looking for something simpler with the
+added value we mention above, miso is for you.
+
 
 # Why would I use this
 
